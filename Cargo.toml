@@ -1,0 +1,7 @@
+[package]
+name = "hashydeque"
+version = "0.1.0"
+authors = ["John VanEnk <vanenkj@gmail.com>"]
+edition = "2018"
+
+[dependencies]
